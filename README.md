@@ -26,8 +26,8 @@ i) # Householder reflection method
 
 ''' 
 Program to QR decomposition using the Householder reflection method
-Developed by: Keerthika N
-RegisterNumber: 21004061
+Developed by: thajesh k
+RegisterNumber: 23004042
 '''
 import numpy as np
 def QR_Decomposition(A):
